@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.jrummyapps:android-shell:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6175eed1fcdb1e4463d6f6b889b7434/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6175eed1fcdb1e4463d6f6b889b7434/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6175eed1fcdb1e4463d6f6b889b7434/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
